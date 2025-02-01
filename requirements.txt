@@ -1,0 +1,6 @@
+Django>=4.2
+gunicorn
+djangorestframework
+googletrans==4.0.0-rc1
+psycopg2-binary
+redis
